@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	
 	<title> Dodaj skoczka </title>
-	<meta name="description" content="Polscy raperzy">
+	<meta name="description" content="Skoczkowie narciarscy">
 	<meta name="keywords" content="skoki">
 	<meta name="author" content="Daniel Wierzbicki">
 	<meta http-equiv="X-Ua-Compatible" content="IE=edge">
@@ -46,7 +46,7 @@
 					<h2 class="h4 ml-0 mb-2"> Nazwisko: </h2>
 					<input type="text" name="nazwisko">
 					<h2 class="h4 ml-0 mb-2"> Narodowość: </h2>
-					<input type="text" name="pseudonim">
+					<input type="text" name="narodowosc">
 					<h2 class="h4 ml-0 mb-2"> Opis: </h2>
 					<textarea cols="19" rows="7" name="opis"></textarea>	
 					<h2 class="h4 ml-0 mb-2"> Zdjęcie: </h2>

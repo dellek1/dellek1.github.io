@@ -5,8 +5,8 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	
-	<title>Pomyślnie dodano rapera</title>
-	<meta name="description" content="Polscy raperzy">
+	<title>Pomyślnie dodano skoczka</title>
+	<meta name="description" content="Skoczkowie narciarscy">
 	<meta name="keywords" content="skoki">
 	<meta name="author" content="Daniel Wierzbicki">
 	<meta http-equiv="X-Ua-Compatible" content="IE=edge">
@@ -32,9 +32,9 @@
 					$nazwisko=$_POST['nazwisko'];
 					echo '<strong>Nazwisko : '.$nazwisko.'</strong>'.'</br>';
 					}
-					if(isset($_POST['pseudonim'])){
-					$pseudonim=$_POST['pseudonim'];
-					echo '<strong>Pseudonim : '.$pseudonim.'</strong>'.'</br>';
+					if(isset($_POST['narodowosc'])){
+					$pseudonim=$_POST['narodowosc'];
+					echo '<strong>Narodowość : '.$pseudonim.'</strong>'.'</br>';
 					}
 					if(isset($_POST['opis'])){
 					$opis=$_POST['opis'];
