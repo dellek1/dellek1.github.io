@@ -1,0 +1,144 @@
+body
+{
+	background-image: url("img/dd.jpg");
+	background-color: #2F4F4F;
+	background-color:RGB(256,256,256,0.60);
+	color: white;
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 20px;
+}
+
+#container 
+{
+    width: 1000px;
+    margin-left: 400px;
+}
+
+#form-group
+{
+		color:red;
+}
+
+h1 /* IMIĘ + NAZWISKO */
+{
+	font-size: 60px;
+	font-weight: 400;
+	color: #990066;
+	margin: 20px;
+	font-weight:bold;
+}
+
+h2 /* ŻYCIE PRYWATNE + PRZEBIEG KARIERY*/
+{
+	padding-top:15px;
+	padding-left:10px;
+	font-size: 50px;
+	font-weight: 400;
+	color: #8E236B;
+	font-weight:bold;
+}
+
+
+
+h4
+{
+	color:black;
+		background-color:RGB(256,256,256,0.60);
+}
+
+
+.btn_submit:hover
+{
+	color: #fff; background-color: orange; 
+	transition: ease 0.3s;
+	font-size:18px;
+
+}
+	
+.jumpers
+{
+	text-align: center;
+}
+
+.jumpers img
+{
+	width: 100%;
+	height: auto;
+}	
+
+.jumpers p
+{
+	margin-bottom: 30px;
+	font-family: 'Times New Roman', sans-serif;
+	font-weight: bold;
+	font-size:22px;
+	font-weight:bold;
+}
+
+.jumpers figcaption
+{
+	margin-top: 8px;
+	color:#000033;
+	font-family: 'Times New Roman', sans-serif;
+	font-variant: small-caps;
+	font-weight: bold;
+	font-size:26px;
+}
+ 
+ .navbar
+ {
+	min-height: 57px;
+ }
+ 
+ .bg-jumpers
+ {
+	 background-color: #262626 !important;
+ }
+ 
+ .wpis
+ {
+	background-image: url("img/ll_4.jpg");
+	text-align: justify; 
+	font-size: 22px;
+	padding: 30px;
+	margin-bottom: 40px;
+	font-family: 'Times New Roman', sans-serif;
+	margin-bottom: 10px;
+	font-weight:;
+ }
+ 
+ .list-group-item-dark
+ {
+	 background-color: #373a3d;
+	 color:white;
+ }
+ 
+  .list-group-item-dark:hover
+ {
+	 background-color: #91a33b !important;
+ }
+ 
+  .list-group .active
+ {
+	 background-color: #91a33b !important;
+	 cursor: default;
+ }
+ 
+ @media (max-width: 575px)
+ {
+	.wpis
+	{
+		margin: 40px 20px;
+		text-align: left;
+		font-size: 15px;
+	}	
+	.float-left, .float-tight
+	{
+		max-width: 50%;
+	}	
+	.list-group
+	{
+		text-align: center;
+	}
+}
+

@@ -1,0 +1,31 @@
+body
+{
+	background-image: url("img/ll.jpg");
+	background-color: #2F4F4F;
+	color: #efefef;
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 20px;
+} 
+ .wpis
+ {
+	background-image: url("img/ll_3.jpg");
+	text-align: justify; 
+	font-size: 21px;
+	padding: 30px;
+	margin-bottom: 40px;
+	margin-bottom: 10px;
+	font-weight:50;
+ }
+
+h1{
+	font-size:26px;
+	font-family: 'Arial', sans-serif;
+	font-weight:bold;
+}	
+
+h2{
+	font-size:50px;
+	text-align:center;
+	margin-top:200px;
+	color:#330033;
+}
