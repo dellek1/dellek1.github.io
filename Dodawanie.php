@@ -45,7 +45,7 @@
 					<input type="text" name="imie">
 					<h2 class="h4 ml-0 mb-2"> Nazwisko: </h2>
 					<input type="text" name="nazwisko">
-					<h2 class="h4 ml-0 mb-2"> Pseudonim: </h2>
+					<h2 class="h4 ml-0 mb-2"> Narodowość: </h2>
 					<input type="text" name="pseudonim">
 					<h2 class="h4 ml-0 mb-2"> Opis: </h2>
 					<textarea cols="19" rows="7" name="opis"></textarea>	
