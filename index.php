@@ -24,7 +24,7 @@
 	<header>
 		<nav class="navbar navbar-dark bg-jumpers navbar-expand-lg"> <!-- start <nav> -->
 		
-			<a class="navbar-brand"href="index_start.php"><img src="img/logo.png" width="60" height="50" class="d-inline-block mr-1 align-bottom" alt=""> </a><b> SKOKI.PL</b>				
+			<a class="navbar-brand"href="index_start.html"><img src="img/logo.png" width="60" height="50" class="d-inline-block mr-1 align-bottom" alt=""> </a><b> SKOKI.PL</b>				
 			<div class="collapse navbar-collapse" id="menu" aria-controls="menu" aria-expanded="false" aria-label="Przełącznik nawigacji">
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-item dropdown">
