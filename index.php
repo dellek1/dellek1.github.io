@@ -46,14 +46,14 @@
 					<li class="nav-item dropdown">
 						<a class="nav-link" href="#"> Historia </a>
 					</li>
-					<li class="nav-item dropdown">
-						<a class="nav-link" href="#"> Zdjęcia </a>
+										<li class="nav-item active">
+						<a class="nav-link" href="index.html"> Zdjęcia </a>
 					</li>
 					<li class="nav-item dropdown">
 						<a class="nav-link" href="#"> Wywiady </a>
 					</li>
 					<li class="nav-item active">
-						<a class="nav-link" href="Kontakt.php"> Kontakt </a>
+						<a class="nav-link" href="Kontakt.html"> Kontakt </a>
 					</li>
 				</ul>
 				<form class="form-inline">
