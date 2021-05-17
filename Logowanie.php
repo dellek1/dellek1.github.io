@@ -28,7 +28,7 @@
 
             if (user.value == "admin") {
                 if (pass.value == "admin") {
-                    window.location.href = "http://localhost/Projekt/Dodawanie.php";
+                    window.location.href = "Dodawanie.php";
                 } else {
                     alert("Zle haslo!")
                 }
@@ -38,7 +38,7 @@
         }
 
         function logowanie() {
-            window.location.href = "file:///C:/xampp/htdocs/Projekt/index.html";
+            window.location.href = "index.php";
         }
     </script>
 	
