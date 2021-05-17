@@ -24,7 +24,7 @@
 	<header>
 		<nav class="navbar navbar-dark bg-jumpers navbar-expand-lg"> <!-- start <nav> -->
 		
-			<a class="navbar-brand"href="index_start.html"><img src="img/logo.png" width="60" height="50" class="d-inline-block mr-1 align-bottom" alt=""> </a><b> SKOKI.PL</b>			
+			<a class="navbar-brand"href="index_start.php"><img src="img/logo.png" width="60" height="50" class="d-inline-block mr-1 align-bottom" alt=""> </a><b> SKOKI.PL</b>			
 			<div class="collapse navbar-collapse" id="menu" aria-controls="menu" aria-expanded="false" aria-label="Przełącznik nawigacji">
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-item active">
@@ -47,18 +47,18 @@
 						<a class="nav-link" href="#"> Historia </a>
 					</li>
 					<li class="nav-item active">
-						<a class="nav-link" href="index.html"> Zdjęcia </a>
+						<a class="nav-link" href="index.php"> Zdjęcia </a>
 					</li>
 					<li class="nav-item dropdown">
 						<a class="nav-link" href="#"> Wywiady </a>
 					</li>
 					<li class="nav-item active">
-						<a class="nav-link" href="Kontakt.html"> Kontakt </a>
+						<a class="nav-link" href="Kontakt.php"> Kontakt </a>
 					</li>
 				</ul>
 				<form class="form-inline">
-					<a style="color: black" class="btn btn-light" class="nav-link" href="Logowanie.html"> Logowanie </a>
-					<a style="color: black" class="btn btn-light ml-2" class="nav-link" href="wyszukaj.html"> Wyszukaj </a>
+					<a style="color: black" class="btn btn-light" class="nav-link" href="Logowanie.php"> Logowanie </a>
+					<a style="color: black" class="btn btn-light ml-2" class="nav-link" href="wyszukaj.php"> Wyszukaj </a>
 				</form>
 			</div>	
 		</nav> 	<!-- koniec </nav> -->
