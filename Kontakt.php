@@ -56,7 +56,7 @@
 					</li>
 				</ul>
 				<form class="form-inline">
-					<a style="color: black" class="btn btn-light ml-2" class="nav-link" href="#"> Wyszukaj </a>
+					<a style="color: black" class="btn btn-light ml-2" class="nav-link" href="wyszukaj.php"> Wyszukaj </a>
 				</form>
 			</div>	
 		</nav> 	<!-- koniec </nav> -->
