@@ -40,7 +40,30 @@
 			<div class="col-lg-8 bg-white text-body wpis">
 					
 				<header>
-					<form action="wynik.php" method="POST">	
+					
+		<nav class="navbar navbar-dark bg-jumpers navbar-expand-lg"> <!-- start <nav> -->
+		
+			<a class="navbar-brand"href="index_start.php"><img src="img/logo.png" width="60" height="50" class="d-inline-block mr-1 align-bottom" alt=""> </a><b> SKOKI.PL</b>				
+			<div class="collapse navbar-collapse" id="menu" aria-controls="menu" aria-expanded="false" aria-label="Przełącznik nawigacji">
+				<ul class="navbar-nav mr-auto">
+
+					</li>
+					<li class="nav-item dropdown">
+						
+						
+						<div class="dropdown-menu" aria-labelledby="submenu">
+	
+					</li>
+
+				</ul>
+				<form class="form-inline">
+					<a style="color: black" class="btn btn-light" class="nav-link" href="index.php"> Powrót </a>
+					
+				</form>
+			</div>	
+		</nav> 	<!-- koniec </nav> -->
+
+					<form action="wynik.html" method="POST">	
 					<h2 class="h4 ml-0 mb-2"> Imię: </h2>					
 					<input type="text" name="imie">
 					<h2 class="h4 ml-0 mb-2"> Nazwisko: </h2>

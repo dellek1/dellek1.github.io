@@ -42,7 +42,27 @@
 			  }
 			}
 	</script>
+		<nav class="navbar navbar-dark bg-jumpers navbar-expand-lg"> <!-- start <nav> -->
+		
+			<a style="color: black" class="btn btn-light" class="nav-link" href="index.php"> Powrót </a>				
+			<div class="collapse navbar-collapse" id="menu" aria-controls="menu" aria-expanded="false" aria-label="Przełącznik nawigacji">
+				<ul class="navbar-nav mr-auto">
 
+					</li>
+					<li class="nav-item dropdown">
+						
+						
+						<div class="dropdown-menu" aria-labelledby="submenu">
+	
+					</li>
+
+				</ul>
+				<form class="form-inline">
+					
+					
+				</form>
+			</div>	
+		</nav> 	<!-- koniec </nav> -->
 <h2>ZNAJDŹ	SWOJEGO SKOCZKA</h2>
 <div class="col-lg-8 bg-white text-body wpis" style="position: absolute; top:50%; left:20%">
 <input class="form-control" type="text" id="myInput" onkeyup="myFunction()" style="margin-top:7px; " placeholder="Szukaj skoczka ...">
