@@ -23,7 +23,7 @@
 </br>
 		<nav class="navbar navbar-dark bg-jumpers navbar-expand-lg"> <!-- start <nav> -->
 		
-			<a class="navbar-brand"href="index_start.php"><img src="img/logo.png" width="60" height="50" class="d-inline-block mr-1 align-bottom" alt=""> </a><b> </b>				
+			<a class="navbar-brand"href="index_start.html"><img src="img/logo.png" width="60" height="50" class="d-inline-block mr-1 align-bottom" alt=""> </a><b> </b>				
 			<div class="collapse navbar-collapse" id="menu" aria-controls="menu" aria-expanded="false" aria-label="Przełącznik nawigacji">
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-item dropdown">
@@ -56,7 +56,7 @@
 					</li>
 				</ul>
 				<form class="form-inline">
-					<a style="color: black" class="btn btn-light ml-2" class="nav-link" href="index.php"> Powrót </a>
+					<a style="color: black" class="btn btn-light ml-2" class="nav-link" href="index.html"> Powrót </a>
 				</form>
 			</div>	
 		</nav> 	<!-- koniec </nav> -->

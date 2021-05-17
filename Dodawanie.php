@@ -57,7 +57,7 @@
 
 				</ul>
 				<form class="form-inline">
-					<a style="color: black" class="btn btn-light" class="nav-link" href="index.php"> Powrót </a>
+					<a style="color: black" class="btn btn-light" class="nav-link" href="index.html"> Powrót </a>
 					
 				</form>
 			</div>	

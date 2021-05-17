@@ -44,7 +44,7 @@
 	</script>
 		<nav class="navbar navbar-dark bg-jumpers navbar-expand-lg"> <!-- start <nav> -->
 		
-			<a style="color: black" class="btn btn-light" class="nav-link" href="index.php"> Powrót </a>				
+			<a style="color: black" class="btn btn-light" class="nav-link" href="index.html"> Powrót </a>				
 			<div class="collapse navbar-collapse" id="menu" aria-controls="menu" aria-expanded="false" aria-label="Przełącznik nawigacji">
 				<ul class="navbar-nav mr-auto">
 
