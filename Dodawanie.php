@@ -63,7 +63,7 @@
 			</div>	
 		</nav> 	<!-- koniec </nav> -->
 
-					<form action="wynik.html" method="POST">	
+					<form action="wynik.php" method="POST">	
 					<h2 class="h4 ml-0 mb-2"> Imię: </h2>					
 					<input type="text" name="imie">
 					<h2 class="h4 ml-0 mb-2"> Nazwisko: </h2>
